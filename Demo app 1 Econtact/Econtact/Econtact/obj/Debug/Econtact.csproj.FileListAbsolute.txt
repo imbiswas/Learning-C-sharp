@@ -1,0 +1,10 @@
+D:\C Sharp\Demo app 1 Econtact\Econtact\Econtact\bin\Debug\Econtact.exe.config
+D:\C Sharp\Demo app 1 Econtact\Econtact\Econtact\bin\Debug\Econtact.exe
+D:\C Sharp\Demo app 1 Econtact\Econtact\Econtact\bin\Debug\Econtact.pdb
+D:\C Sharp\Demo app 1 Econtact\Econtact\Econtact\obj\Debug\Econtact.csprojAssemblyReference.cache
+D:\C Sharp\Demo app 1 Econtact\Econtact\Econtact\obj\Debug\Econtact.Econtact.resources
+D:\C Sharp\Demo app 1 Econtact\Econtact\Econtact\obj\Debug\Econtact.Properties.Resources.resources
+D:\C Sharp\Demo app 1 Econtact\Econtact\Econtact\obj\Debug\Econtact.csproj.GenerateResource.cache
+D:\C Sharp\Demo app 1 Econtact\Econtact\Econtact\obj\Debug\Econtact.csproj.CoreCompileInputs.cache
+D:\C Sharp\Demo app 1 Econtact\Econtact\Econtact\obj\Debug\Econtact.exe
+D:\C Sharp\Demo app 1 Econtact\Econtact\Econtact\obj\Debug\Econtact.pdb
