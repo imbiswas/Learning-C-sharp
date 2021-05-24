@@ -48,12 +48,12 @@ namespace Econtact
             this.buttonUpdate = new System.Windows.Forms.Button();
             this.buttonDelete = new System.Windows.Forms.Button();
             this.buttonClear = new System.Windows.Forms.Button();
-            this.dataGridView1 = new System.Windows.Forms.DataGridView();
+            this.dataGridViewContactList = new System.Windows.Forms.DataGridView();
             this.textBoxSearch = new System.Windows.Forms.TextBox();
             this.labelSearch = new System.Windows.Forms.Label();
             this.pictureBox1 = new System.Windows.Forms.PictureBox();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBoxLogo)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.dataGridViewContactList)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             this.SuspendLayout();
             // 
@@ -84,6 +84,7 @@ namespace Econtact
             this.textBoxContactId.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.textBoxContactId.Location = new System.Drawing.Point(208, 156);
             this.textBoxContactId.Name = "textBoxContactId";
+            this.textBoxContactId.ReadOnly = true;
             this.textBoxContactId.Size = new System.Drawing.Size(298, 26);
             this.textBoxContactId.TabIndex = 2;
             // 
@@ -98,7 +99,6 @@ namespace Econtact
             this.label1.Size = new System.Drawing.Size(235, 55);
             this.label1.TabIndex = 3;
             this.label1.Text = "E Contact";
-            this.label1.Click += new System.EventHandler(this.label1_Click);
             // 
             // textBoxFirstName
             // 
@@ -167,7 +167,6 @@ namespace Econtact
             this.labelAddress.Size = new System.Drawing.Size(68, 20);
             this.labelAddress.TabIndex = 10;
             this.labelAddress.Text = "Address";
-            this.labelAddress.Click += new System.EventHandler(this.label2_Click);
             // 
             // textBoxAddress
             // 
@@ -177,7 +176,6 @@ namespace Econtact
             this.textBoxAddress.Name = "textBoxAddress";
             this.textBoxAddress.Size = new System.Drawing.Size(298, 87);
             this.textBoxAddress.TabIndex = 11;
-            this.textBoxAddress.TextChanged += new System.EventHandler(this.textBox1_TextChanged);
             // 
             // labelGender
             // 
@@ -215,6 +213,7 @@ namespace Econtact
             this.buttonAdd.TabIndex = 14;
             this.buttonAdd.Text = "Add";
             this.buttonAdd.UseVisualStyleBackColor = false;
+            this.buttonAdd.Click += new System.EventHandler(this.buttonAdd_Click);
             // 
             // buttonUpdate
             // 
@@ -227,6 +226,7 @@ namespace Econtact
             this.buttonUpdate.TabIndex = 15;
             this.buttonUpdate.Text = "Update";
             this.buttonUpdate.UseVisualStyleBackColor = false;
+            this.buttonUpdate.Click += new System.EventHandler(this.buttonUpdate_Click);
             // 
             // buttonDelete
             // 
@@ -239,6 +239,7 @@ namespace Econtact
             this.buttonDelete.TabIndex = 16;
             this.buttonDelete.Text = "Delete";
             this.buttonDelete.UseVisualStyleBackColor = false;
+            this.buttonDelete.Click += new System.EventHandler(this.buttonDelete_Click);
             // 
             // buttonClear
             // 
@@ -251,14 +252,16 @@ namespace Econtact
             this.buttonClear.TabIndex = 17;
             this.buttonClear.Text = "Clear";
             this.buttonClear.UseVisualStyleBackColor = false;
+            this.buttonClear.Click += new System.EventHandler(this.buttonClear_Click);
             // 
-            // dataGridView1
+            // dataGridViewContactList
             // 
-            this.dataGridView1.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            this.dataGridView1.Location = new System.Drawing.Point(610, 219);
-            this.dataGridView1.Name = "dataGridView1";
-            this.dataGridView1.Size = new System.Drawing.Size(430, 451);
-            this.dataGridView1.TabIndex = 18;
+            this.dataGridViewContactList.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
+            this.dataGridViewContactList.Location = new System.Drawing.Point(610, 219);
+            this.dataGridViewContactList.Name = "dataGridViewContactList";
+            this.dataGridViewContactList.Size = new System.Drawing.Size(430, 451);
+            this.dataGridViewContactList.TabIndex = 18;
+            this.dataGridViewContactList.RowHeaderMouseClick += new System.Windows.Forms.DataGridViewCellMouseEventHandler(this.dataGridViewContactList_RowHeaderMouseClick);
             // 
             // textBoxSearch
             // 
@@ -267,6 +270,7 @@ namespace Econtact
             this.textBoxSearch.Name = "textBoxSearch";
             this.textBoxSearch.Size = new System.Drawing.Size(303, 26);
             this.textBoxSearch.TabIndex = 20;
+            this.textBoxSearch.TextChanged += new System.EventHandler(this.textBoxSearch_TextChanged);
             // 
             // labelSearch
             // 
@@ -288,6 +292,7 @@ namespace Econtact
             this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
             this.pictureBox1.TabIndex = 21;
             this.pictureBox1.TabStop = false;
+            this.pictureBox1.Click += new System.EventHandler(this.pictureBox1_Click);
             // 
             // Econtact
             // 
@@ -297,7 +302,7 @@ namespace Econtact
             this.Controls.Add(this.pictureBox1);
             this.Controls.Add(this.textBoxSearch);
             this.Controls.Add(this.labelSearch);
-            this.Controls.Add(this.dataGridView1);
+            this.Controls.Add(this.dataGridViewContactList);
             this.Controls.Add(this.buttonClear);
             this.Controls.Add(this.buttonDelete);
             this.Controls.Add(this.buttonUpdate);
@@ -319,8 +324,9 @@ namespace Econtact
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
             this.Name = "Econtact";
             this.Text = "EContact";
+            this.Load += new System.EventHandler(this.Econtact_Load);
             ((System.ComponentModel.ISupportInitialize)(this.pictureBoxLogo)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.dataGridViewContactList)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
@@ -347,7 +353,7 @@ namespace Econtact
         private System.Windows.Forms.Button buttonUpdate;
         private System.Windows.Forms.Button buttonDelete;
         private System.Windows.Forms.Button buttonClear;
-        private System.Windows.Forms.DataGridView dataGridView1;
+        private System.Windows.Forms.DataGridView dataGridViewContactList;
         private System.Windows.Forms.TextBox textBoxSearch;
         private System.Windows.Forms.Label labelSearch;
         private System.Windows.Forms.PictureBox pictureBox1;
