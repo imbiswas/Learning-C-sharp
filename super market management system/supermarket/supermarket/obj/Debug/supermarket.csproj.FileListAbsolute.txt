@@ -1,0 +1,12 @@
+D:\C Sharp\super market management system\supermarket\supermarket\bin\Debug\supermarket.exe.config
+D:\C Sharp\super market management system\supermarket\supermarket\bin\Debug\supermarket.exe
+D:\C Sharp\super market management system\supermarket\supermarket\bin\Debug\supermarket.pdb
+D:\C Sharp\super market management system\supermarket\supermarket\obj\Debug\supermarket.csprojAssemblyReference.cache
+D:\C Sharp\super market management system\supermarket\supermarket\obj\Debug\supermarket.Form1.resources
+D:\C Sharp\super market management system\supermarket\supermarket\obj\Debug\supermarket.Properties.Resources.resources
+D:\C Sharp\super market management system\supermarket\supermarket\obj\Debug\supermarket.csproj.GenerateResource.cache
+D:\C Sharp\super market management system\supermarket\supermarket\obj\Debug\supermarket.csproj.CoreCompileInputs.cache
+D:\C Sharp\super market management system\supermarket\supermarket\obj\Debug\supermarket.exe
+D:\C Sharp\super market management system\supermarket\supermarket\obj\Debug\supermarket.pdb
+D:\C Sharp\super market management system\supermarket\supermarket\obj\Debug\supermarket.Splash.resources
+D:\C Sharp\super market management system\supermarket\supermarket\obj\Debug\supermarket.ProductForm.resources
