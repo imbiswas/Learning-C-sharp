@@ -129,19 +129,7 @@ namespace BLL
          };
             return DAO.GetDatatable(sql, param);
         }
-        //public int insertFeeHeadInFeetaggintable(string columnname,string value, int studentid)
-        //{
-        //    string sql = "Insert into tblFeetagging (@a) values(@b) where Studentid=@c";
-        //    SqlParameter[] param = new SqlParameter[]
-        // {
-        //        new SqlParameter("@a",columnname),
-        //        new SqlParameter("@b",value),
-        //        new SqlParameter("@c",studentid)
-        // };
-        //    return DAO.IUD(sql, param, System.Data.CommandType.Text);
-
-
-        //}
+        
         public int insertFeeHeadInFeetaggintable(string columnname, string value, int studentid)
         {
             string sql = "Update tblFeetagging set "+columnname+"=@b where Studentid=@c ";

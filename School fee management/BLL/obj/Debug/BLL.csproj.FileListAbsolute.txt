@@ -24,3 +24,13 @@ C:\Users\biswa\Downloads\FeeManagementSystem\BLL\obj\Debug\BLL.csproj.CoreCompil
 C:\Users\biswa\Downloads\FeeManagementSystem\BLL\obj\Debug\BLL.csproj.CopyComplete
 C:\Users\biswa\Downloads\FeeManagementSystem\BLL\obj\Debug\BLL.dll
 C:\Users\biswa\Downloads\FeeManagementSystem\BLL\obj\Debug\BLL.pdb
+D:\C Sharp\School fee management\BLL\bin\Debug\BLL.dll
+D:\C Sharp\School fee management\BLL\bin\Debug\BLL.pdb
+D:\C Sharp\School fee management\BLL\bin\Debug\DAL.dll
+D:\C Sharp\School fee management\BLL\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\C Sharp\School fee management\BLL\bin\Debug\DAL.pdb
+D:\C Sharp\School fee management\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
+D:\C Sharp\School fee management\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+D:\C Sharp\School fee management\BLL\obj\Debug\BLL.csproj.CopyComplete
+D:\C Sharp\School fee management\BLL\obj\Debug\BLL.dll
+D:\C Sharp\School fee management\BLL\obj\Debug\BLL.pdb

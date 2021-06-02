@@ -78,3 +78,29 @@ C:\Users\biswa\Downloads\FeeManagementSystem\FeeManagementSystem\obj\Debug\FeeMa
 C:\Users\biswa\Downloads\FeeManagementSystem\FeeManagementSystem\obj\Debug\FeeManagementSystem.csproj.CopyComplete
 C:\Users\biswa\Downloads\FeeManagementSystem\FeeManagementSystem\obj\Debug\FeeManagementSystem.exe
 C:\Users\biswa\Downloads\FeeManagementSystem\FeeManagementSystem\obj\Debug\FeeManagementSystem.pdb
+D:\C Sharp\School fee management\FeeManagementSystem\bin\Debug\FeeManagementSystem.exe.config
+D:\C Sharp\School fee management\FeeManagementSystem\bin\Debug\FeeManagementSystem.exe
+D:\C Sharp\School fee management\FeeManagementSystem\bin\Debug\FeeManagementSystem.pdb
+D:\C Sharp\School fee management\FeeManagementSystem\bin\Debug\BLL.dll
+D:\C Sharp\School fee management\FeeManagementSystem\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\C Sharp\School fee management\FeeManagementSystem\bin\Debug\DAL.dll
+D:\C Sharp\School fee management\FeeManagementSystem\bin\Debug\ShockwaveFlashObjects.dll
+D:\C Sharp\School fee management\FeeManagementSystem\bin\Debug\stdole.dll
+D:\C Sharp\School fee management\FeeManagementSystem\bin\Debug\BLL.pdb
+D:\C Sharp\School fee management\FeeManagementSystem\bin\Debug\DAL.pdb
+D:\C Sharp\School fee management\FeeManagementSystem\obj\Debug\FeeManagementSystem.csprojAssemblyReference.cache
+D:\C Sharp\School fee management\FeeManagementSystem\obj\Debug\FeeManagementSystem.BillClaimReport.resources
+D:\C Sharp\School fee management\FeeManagementSystem\obj\Debug\FeeManagementSystem.BillPayment.resources
+D:\C Sharp\School fee management\FeeManagementSystem\obj\Debug\FeeManagementSystem.ClaimBill.resources
+D:\C Sharp\School fee management\FeeManagementSystem\obj\Debug\FeeManagementSystem.FeeHead.resources
+D:\C Sharp\School fee management\FeeManagementSystem\obj\Debug\FeeManagementSystem.FeeRate.resources
+D:\C Sharp\School fee management\FeeManagementSystem\obj\Debug\FeeManagementSystem.Feetagging.resources
+D:\C Sharp\School fee management\FeeManagementSystem\obj\Debug\FeeManagementSystem.Form1.resources
+D:\C Sharp\School fee management\FeeManagementSystem\obj\Debug\FeeManagementSystem.MainForm.resources
+D:\C Sharp\School fee management\FeeManagementSystem\obj\Debug\FeeManagementSystem.Properties.Resources.resources
+D:\C Sharp\School fee management\FeeManagementSystem\obj\Debug\FeeManagementSystem.StudentCRUD.resources
+D:\C Sharp\School fee management\FeeManagementSystem\obj\Debug\FeeManagementSystem.csproj.GenerateResource.cache
+D:\C Sharp\School fee management\FeeManagementSystem\obj\Debug\FeeManagementSystem.csproj.CoreCompileInputs.cache
+D:\C Sharp\School fee management\FeeManagementSystem\obj\Debug\FeeManagementSystem.csproj.CopyComplete
+D:\C Sharp\School fee management\FeeManagementSystem\obj\Debug\FeeManagementSystem.exe
+D:\C Sharp\School fee management\FeeManagementSystem\obj\Debug\FeeManagementSystem.pdb
