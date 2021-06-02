@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FeeManagementSystem", "FeeManagementSystem\FeeManagementSystem.csproj", "{3EA1CF04-A878-4222-9D29-10FCB78F159A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DAL", "DAL\DAL.csproj", "{151A32D0-18DB-48EF-B834-4D9B9C6C19CA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BLL", "BLL\BLL.csproj", "{73DDD09C-5AAA-4B0D-AF4B-E598297E97FF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3EA1CF04-A878-4222-9D29-10FCB78F159A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3EA1CF04-A878-4222-9D29-10FCB78F159A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3EA1CF04-A878-4222-9D29-10FCB78F159A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3EA1CF04-A878-4222-9D29-10FCB78F159A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{151A32D0-18DB-48EF-B834-4D9B9C6C19CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{151A32D0-18DB-48EF-B834-4D9B9C6C19CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{151A32D0-18DB-48EF-B834-4D9B9C6C19CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{151A32D0-18DB-48EF-B834-4D9B9C6C19CA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{73DDD09C-5AAA-4B0D-AF4B-E598297E97FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73DDD09C-5AAA-4B0D-AF4B-E598297E97FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73DDD09C-5AAA-4B0D-AF4B-E598297E97FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73DDD09C-5AAA-4B0D-AF4B-E598297E97FF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

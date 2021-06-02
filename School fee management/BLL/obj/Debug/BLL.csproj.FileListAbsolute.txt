@@ -1,0 +1,26 @@
+D:\broadway asp.net mvc\my projects\feemanagement\FeeManagementSystem\BLL\bin\Debug\BLL.dll
+D:\broadway asp.net mvc\my projects\feemanagement\FeeManagementSystem\BLL\bin\Debug\BLL.pdb
+D:\broadway asp.net mvc\my projects\feemanagement\FeeManagementSystem\BLL\bin\Debug\DAL.dll
+D:\broadway asp.net mvc\my projects\feemanagement\FeeManagementSystem\BLL\bin\Debug\DAL.pdb
+D:\broadway asp.net mvc\my projects\feemanagement\FeeManagementSystem\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+D:\broadway asp.net mvc\my projects\feemanagement\FeeManagementSystem\BLL\obj\Debug\BLL.dll
+D:\broadway asp.net mvc\my projects\feemanagement\FeeManagementSystem\BLL\obj\Debug\BLL.pdb
+D:\broadway asp.net mvc\my projects\feemanagement\FeeManagementSystem\BLL\bin\Debug\Microsoft.SqlServer.Types.dll
+E:\Meher\my projects\feemanagement\FeeManagementSystem\BLL\bin\Debug\BLL.dll
+E:\Meher\my projects\feemanagement\FeeManagementSystem\BLL\bin\Debug\BLL.pdb
+E:\Meher\my projects\feemanagement\FeeManagementSystem\BLL\bin\Debug\DAL.dll
+E:\Meher\my projects\feemanagement\FeeManagementSystem\BLL\bin\Debug\Microsoft.SqlServer.Types.dll
+E:\Meher\my projects\feemanagement\FeeManagementSystem\BLL\bin\Debug\DAL.pdb
+E:\Meher\my projects\feemanagement\FeeManagementSystem\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+E:\Meher\my projects\feemanagement\FeeManagementSystem\BLL\obj\Debug\BLL.dll
+E:\Meher\my projects\feemanagement\FeeManagementSystem\BLL\obj\Debug\BLL.pdb
+C:\Users\biswa\Downloads\FeeManagementSystem\BLL\bin\Debug\BLL.dll
+C:\Users\biswa\Downloads\FeeManagementSystem\BLL\bin\Debug\BLL.pdb
+C:\Users\biswa\Downloads\FeeManagementSystem\BLL\bin\Debug\DAL.dll
+C:\Users\biswa\Downloads\FeeManagementSystem\BLL\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\biswa\Downloads\FeeManagementSystem\BLL\bin\Debug\DAL.pdb
+C:\Users\biswa\Downloads\FeeManagementSystem\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
+C:\Users\biswa\Downloads\FeeManagementSystem\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\biswa\Downloads\FeeManagementSystem\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Users\biswa\Downloads\FeeManagementSystem\BLL\obj\Debug\BLL.dll
+C:\Users\biswa\Downloads\FeeManagementSystem\BLL\obj\Debug\BLL.pdb

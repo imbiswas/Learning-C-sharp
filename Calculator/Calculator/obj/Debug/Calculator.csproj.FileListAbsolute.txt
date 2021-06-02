@@ -1,0 +1,28 @@
+E:\visual studio\Calculator\Calculator\bin\Debug\Calculator.exe.config
+E:\visual studio\Calculator\Calculator\bin\Debug\Calculator.exe
+E:\visual studio\Calculator\Calculator\bin\Debug\Calculator.pdb
+E:\visual studio\Calculator\Calculator\obj\Debug\Calculator.csprojResolveAssemblyReference.cache
+E:\visual studio\Calculator\Calculator\obj\Debug\Calculator.Form1.resources
+E:\visual studio\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+E:\visual studio\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.Cache
+E:\visual studio\Calculator\Calculator\obj\Debug\Calculator.exe
+E:\visual studio\Calculator\Calculator\obj\Debug\Calculator.pdb
+F:\C-Sharp-Desktop-calculator\Calculator\bin\Debug\Calculator.exe.config
+F:\C-Sharp-Desktop-calculator\Calculator\bin\Debug\Calculator.exe
+F:\C-Sharp-Desktop-calculator\Calculator\bin\Debug\Calculator.pdb
+F:\C-Sharp-Desktop-calculator\Calculator\obj\Debug\Calculator.csprojResolveAssemblyReference.cache
+F:\C-Sharp-Desktop-calculator\Calculator\obj\Debug\Calculator.Form1.resources
+F:\C-Sharp-Desktop-calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+F:\C-Sharp-Desktop-calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.Cache
+F:\C-Sharp-Desktop-calculator\Calculator\obj\Debug\Calculator.exe
+F:\C-Sharp-Desktop-calculator\Calculator\obj\Debug\Calculator.pdb
+C:\Users\biswa\Downloads\C-Sharp-Desktop-calculator\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\biswa\Downloads\C-Sharp-Desktop-calculator\Calculator\bin\Debug\Calculator.exe
+C:\Users\biswa\Downloads\C-Sharp-Desktop-calculator\Calculator\bin\Debug\Calculator.pdb
+C:\Users\biswa\Downloads\C-Sharp-Desktop-calculator\Calculator\obj\Debug\Calculator.csprojAssemblyReference.cache
+C:\Users\biswa\Downloads\C-Sharp-Desktop-calculator\Calculator\obj\Debug\Calculator.Form1.resources
+C:\Users\biswa\Downloads\C-Sharp-Desktop-calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+C:\Users\biswa\Downloads\C-Sharp-Desktop-calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+C:\Users\biswa\Downloads\C-Sharp-Desktop-calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\biswa\Downloads\C-Sharp-Desktop-calculator\Calculator\obj\Debug\Calculator.exe
+C:\Users\biswa\Downloads\C-Sharp-Desktop-calculator\Calculator\obj\Debug\Calculator.pdb

@@ -1,0 +1,80 @@
+D:\broadway asp.net mvc\my projects\feemanagement\FeeManagementSystem\FeeManagementSystem\bin\Debug\FeeManagementSystem.exe.config
+D:\broadway asp.net mvc\my projects\feemanagement\FeeManagementSystem\FeeManagementSystem\bin\Debug\FeeManagementSystem.exe
+D:\broadway asp.net mvc\my projects\feemanagement\FeeManagementSystem\FeeManagementSystem\bin\Debug\FeeManagementSystem.pdb
+D:\broadway asp.net mvc\my projects\feemanagement\FeeManagementSystem\FeeManagementSystem\obj\Debug\FeeManagementSystem.Form1.resources
+D:\broadway asp.net mvc\my projects\feemanagement\FeeManagementSystem\FeeManagementSystem\obj\Debug\FeeManagementSystem.MainForm.resources
+D:\broadway asp.net mvc\my projects\feemanagement\FeeManagementSystem\FeeManagementSystem\obj\Debug\FeeManagementSystem.Properties.Resources.resources
+D:\broadway asp.net mvc\my projects\feemanagement\FeeManagementSystem\FeeManagementSystem\obj\Debug\FeeManagementSystem.csproj.GenerateResource.Cache
+D:\broadway asp.net mvc\my projects\feemanagement\FeeManagementSystem\FeeManagementSystem\obj\Debug\FeeManagementSystem.exe
+D:\broadway asp.net mvc\my projects\feemanagement\FeeManagementSystem\FeeManagementSystem\obj\Debug\FeeManagementSystem.pdb
+D:\broadway asp.net mvc\my projects\feemanagement\FeeManagementSystem\FeeManagementSystem\obj\Debug\FeeManagementSystem.csprojResolveAssemblyReference.cache
+D:\broadway asp.net mvc\my projects\feemanagement\FeeManagementSystem\FeeManagementSystem\obj\Debug\FeeManagementSystem.FeeHead.resources
+D:\broadway asp.net mvc\my projects\feemanagement\FeeManagementSystem\FeeManagementSystem\obj\Debug\FeeManagementSystem.FeeRate.resources
+D:\broadway asp.net mvc\my projects\feemanagement\FeeManagementSystem\FeeManagementSystem\obj\Debug\FeeManagementSystem.StudentCRUD.resources
+D:\broadway asp.net mvc\my projects\feemanagement\FeeManagementSystem\FeeManagementSystem\bin\Debug\BLL.dll
+D:\broadway asp.net mvc\my projects\feemanagement\FeeManagementSystem\FeeManagementSystem\bin\Debug\DAL.dll
+D:\broadway asp.net mvc\my projects\feemanagement\FeeManagementSystem\FeeManagementSystem\bin\Debug\BLL.pdb
+D:\broadway asp.net mvc\my projects\feemanagement\FeeManagementSystem\FeeManagementSystem\bin\Debug\DAL.pdb
+D:\broadway asp.net mvc\my projects\feemanagement\FeeManagementSystem\FeeManagementSystem\obj\Debug\FeeManagementSystem.Feetagging.resources
+D:\broadway asp.net mvc\my projects\feemanagement\FeeManagementSystem\FeeManagementSystem\obj\Debug\FeeManagementSystem.ClaimBill.resources
+D:\broadway asp.net mvc\my projects\feemanagement\FeeManagementSystem\FeeManagementSystem\obj\Debug\FeeManagementSystem.BillPayment.resources
+D:\broadway asp.net mvc\my projects\feemanagement\FeeManagementSystem\FeeManagementSystem\bin\Debug\stdole.dll
+D:\broadway asp.net mvc\my projects\feemanagement\FeeManagementSystem\FeeManagementSystem\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\broadway asp.net mvc\my projects\feemanagement\FeeManagementSystem\FeeManagementSystem\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\broadway asp.net mvc\my projects\feemanagement\FeeManagementSystem\FeeManagementSystem\obj\Debug\FeeManagementSystem.BillClaimReport.resources
+D:\broadway asp.net mvc\my projects\feemanagement\FeeManagementSystem\FeeManagementSystem\obj\Debug\RdlCompile.cache
+D:\broadway asp.net mvc\my projects\feemanagement\FeeManagementSystem\FeeManagementSystem\obj\Debug\RdlCompile.compiled
+E:\Meher\my projects\feemanagement\FeeManagementSystem\FeeManagementSystem\bin\Debug\FeeManagementSystem.exe.config
+E:\Meher\my projects\feemanagement\FeeManagementSystem\FeeManagementSystem\obj\Debug\FeeManagementSystem.exe
+E:\Meher\my projects\feemanagement\FeeManagementSystem\FeeManagementSystem\obj\Debug\FeeManagementSystem.pdb
+E:\Meher\my projects\feemanagement\FeeManagementSystem\FeeManagementSystem\bin\Debug\FeeManagementSystem.exe
+E:\Meher\my projects\feemanagement\FeeManagementSystem\FeeManagementSystem\bin\Debug\FeeManagementSystem.pdb
+E:\Meher\my projects\feemanagement\FeeManagementSystem\FeeManagementSystem\bin\Debug\BLL.dll
+E:\Meher\my projects\feemanagement\FeeManagementSystem\FeeManagementSystem\bin\Debug\FlashControlV71.dll
+E:\Meher\my projects\feemanagement\FeeManagementSystem\FeeManagementSystem\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+E:\Meher\my projects\feemanagement\FeeManagementSystem\FeeManagementSystem\bin\Debug\Microsoft.SqlServer.Types.dll
+E:\Meher\my projects\feemanagement\FeeManagementSystem\FeeManagementSystem\bin\Debug\DAL.dll
+E:\Meher\my projects\feemanagement\FeeManagementSystem\FeeManagementSystem\bin\Debug\ShockwaveFlashObjects.dll
+E:\Meher\my projects\feemanagement\FeeManagementSystem\FeeManagementSystem\bin\Debug\stdole.dll
+E:\Meher\my projects\feemanagement\FeeManagementSystem\FeeManagementSystem\bin\Debug\BLL.pdb
+E:\Meher\my projects\feemanagement\FeeManagementSystem\FeeManagementSystem\bin\Debug\DAL.pdb
+E:\Meher\my projects\feemanagement\FeeManagementSystem\FeeManagementSystem\obj\Debug\FeeManagementSystem.csprojResolveAssemblyReference.cache
+E:\Meher\my projects\feemanagement\FeeManagementSystem\FeeManagementSystem\obj\Debug\FeeManagementSystem.BillClaimReport.resources
+E:\Meher\my projects\feemanagement\FeeManagementSystem\FeeManagementSystem\obj\Debug\FeeManagementSystem.BillPayment.resources
+E:\Meher\my projects\feemanagement\FeeManagementSystem\FeeManagementSystem\obj\Debug\FeeManagementSystem.ClaimBill.resources
+E:\Meher\my projects\feemanagement\FeeManagementSystem\FeeManagementSystem\obj\Debug\FeeManagementSystem.FeeHead.resources
+E:\Meher\my projects\feemanagement\FeeManagementSystem\FeeManagementSystem\obj\Debug\FeeManagementSystem.FeeRate.resources
+E:\Meher\my projects\feemanagement\FeeManagementSystem\FeeManagementSystem\obj\Debug\FeeManagementSystem.Feetagging.resources
+E:\Meher\my projects\feemanagement\FeeManagementSystem\FeeManagementSystem\obj\Debug\FeeManagementSystem.Form1.resources
+E:\Meher\my projects\feemanagement\FeeManagementSystem\FeeManagementSystem\obj\Debug\FeeManagementSystem.MainForm.resources
+E:\Meher\my projects\feemanagement\FeeManagementSystem\FeeManagementSystem\obj\Debug\FeeManagementSystem.Properties.Resources.resources
+E:\Meher\my projects\feemanagement\FeeManagementSystem\FeeManagementSystem\obj\Debug\FeeManagementSystem.StudentCRUD.resources
+E:\Meher\my projects\feemanagement\FeeManagementSystem\FeeManagementSystem\obj\Debug\FeeManagementSystem.csproj.GenerateResource.Cache
+E:\Meher\my projects\feemanagement\FeeManagementSystem\FeeManagementSystem\obj\Debug\RdlCompile.cache
+E:\Meher\my projects\feemanagement\FeeManagementSystem\FeeManagementSystem\obj\Debug\RdlCompile.compiled
+C:\Users\biswa\Downloads\FeeManagementSystem\FeeManagementSystem\bin\Debug\FeeManagementSystem.exe.config
+C:\Users\biswa\Downloads\FeeManagementSystem\FeeManagementSystem\bin\Debug\FeeManagementSystem.exe
+C:\Users\biswa\Downloads\FeeManagementSystem\FeeManagementSystem\bin\Debug\FeeManagementSystem.pdb
+C:\Users\biswa\Downloads\FeeManagementSystem\FeeManagementSystem\bin\Debug\BLL.dll
+C:\Users\biswa\Downloads\FeeManagementSystem\FeeManagementSystem\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\biswa\Downloads\FeeManagementSystem\FeeManagementSystem\bin\Debug\DAL.dll
+C:\Users\biswa\Downloads\FeeManagementSystem\FeeManagementSystem\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\biswa\Downloads\FeeManagementSystem\FeeManagementSystem\bin\Debug\stdole.dll
+C:\Users\biswa\Downloads\FeeManagementSystem\FeeManagementSystem\bin\Debug\BLL.pdb
+C:\Users\biswa\Downloads\FeeManagementSystem\FeeManagementSystem\bin\Debug\DAL.pdb
+C:\Users\biswa\Downloads\FeeManagementSystem\FeeManagementSystem\obj\Debug\FeeManagementSystem.csprojAssemblyReference.cache
+C:\Users\biswa\Downloads\FeeManagementSystem\FeeManagementSystem\obj\Debug\FeeManagementSystem.BillClaimReport.resources
+C:\Users\biswa\Downloads\FeeManagementSystem\FeeManagementSystem\obj\Debug\FeeManagementSystem.BillPayment.resources
+C:\Users\biswa\Downloads\FeeManagementSystem\FeeManagementSystem\obj\Debug\FeeManagementSystem.ClaimBill.resources
+C:\Users\biswa\Downloads\FeeManagementSystem\FeeManagementSystem\obj\Debug\FeeManagementSystem.FeeHead.resources
+C:\Users\biswa\Downloads\FeeManagementSystem\FeeManagementSystem\obj\Debug\FeeManagementSystem.FeeRate.resources
+C:\Users\biswa\Downloads\FeeManagementSystem\FeeManagementSystem\obj\Debug\FeeManagementSystem.Feetagging.resources
+C:\Users\biswa\Downloads\FeeManagementSystem\FeeManagementSystem\obj\Debug\FeeManagementSystem.Form1.resources
+C:\Users\biswa\Downloads\FeeManagementSystem\FeeManagementSystem\obj\Debug\FeeManagementSystem.MainForm.resources
+C:\Users\biswa\Downloads\FeeManagementSystem\FeeManagementSystem\obj\Debug\FeeManagementSystem.Properties.Resources.resources
+C:\Users\biswa\Downloads\FeeManagementSystem\FeeManagementSystem\obj\Debug\FeeManagementSystem.StudentCRUD.resources
+C:\Users\biswa\Downloads\FeeManagementSystem\FeeManagementSystem\obj\Debug\FeeManagementSystem.csproj.GenerateResource.cache
+C:\Users\biswa\Downloads\FeeManagementSystem\FeeManagementSystem\obj\Debug\FeeManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\biswa\Downloads\FeeManagementSystem\FeeManagementSystem\obj\Debug\FeeManagementSystem.csproj.CopyComplete
+C:\Users\biswa\Downloads\FeeManagementSystem\FeeManagementSystem\obj\Debug\FeeManagementSystem.exe
+C:\Users\biswa\Downloads\FeeManagementSystem\FeeManagementSystem\obj\Debug\FeeManagementSystem.pdb

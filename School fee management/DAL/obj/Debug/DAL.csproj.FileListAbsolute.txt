@@ -1,0 +1,20 @@
+D:\broadway asp.net mvc\my projects\feemanagement\FeeManagementSystem\DAL\bin\Debug\DAL.dll
+D:\broadway asp.net mvc\my projects\feemanagement\FeeManagementSystem\DAL\bin\Debug\DAL.pdb
+D:\broadway asp.net mvc\my projects\feemanagement\FeeManagementSystem\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+D:\broadway asp.net mvc\my projects\feemanagement\FeeManagementSystem\DAL\obj\Debug\DAL.dll
+D:\broadway asp.net mvc\my projects\feemanagement\FeeManagementSystem\DAL\obj\Debug\DAL.pdb
+D:\broadway asp.net mvc\my projects\feemanagement\FeeManagementSystem\DAL\bin\Debug\Microsoft.SqlServer.Types.dll
+E:\Meher\my projects\feemanagement\FeeManagementSystem\DAL\bin\Debug\DAL.dll
+E:\Meher\my projects\feemanagement\FeeManagementSystem\DAL\bin\Debug\DAL.pdb
+E:\Meher\my projects\feemanagement\FeeManagementSystem\DAL\bin\Debug\Microsoft.SqlServer.Types.dll
+E:\Meher\my projects\feemanagement\FeeManagementSystem\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+E:\Meher\my projects\feemanagement\FeeManagementSystem\DAL\obj\Debug\DAL.dll
+E:\Meher\my projects\feemanagement\FeeManagementSystem\DAL\obj\Debug\DAL.pdb
+C:\Users\biswa\Downloads\FeeManagementSystem\DAL\bin\Debug\DAL.dll
+C:\Users\biswa\Downloads\FeeManagementSystem\DAL\bin\Debug\DAL.pdb
+C:\Users\biswa\Downloads\FeeManagementSystem\DAL\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\biswa\Downloads\FeeManagementSystem\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\biswa\Downloads\FeeManagementSystem\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\biswa\Downloads\FeeManagementSystem\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\biswa\Downloads\FeeManagementSystem\DAL\obj\Debug\DAL.dll
+C:\Users\biswa\Downloads\FeeManagementSystem\DAL\obj\Debug\DAL.pdb
