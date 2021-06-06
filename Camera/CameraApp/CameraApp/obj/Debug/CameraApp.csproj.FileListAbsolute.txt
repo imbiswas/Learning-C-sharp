@@ -1,0 +1,17 @@
+D:\C Sharp\Camera\CameraApp\CameraApp\bin\Debug\CameraApp.exe.config
+D:\C Sharp\Camera\CameraApp\CameraApp\bin\Debug\CameraApp.exe
+D:\C Sharp\Camera\CameraApp\CameraApp\bin\Debug\CameraApp.pdb
+D:\C Sharp\Camera\CameraApp\CameraApp\obj\Debug\CameraApp.csprojAssemblyReference.cache
+D:\C Sharp\Camera\CameraApp\CameraApp\obj\Debug\CameraApp.Form1.resources
+D:\C Sharp\Camera\CameraApp\CameraApp\obj\Debug\CameraApp.Properties.Resources.resources
+D:\C Sharp\Camera\CameraApp\CameraApp\obj\Debug\CameraApp.csproj.GenerateResource.cache
+D:\C Sharp\Camera\CameraApp\CameraApp\obj\Debug\CameraApp.csproj.CoreCompileInputs.cache
+D:\C Sharp\Camera\CameraApp\CameraApp\obj\Debug\CameraApp.exe
+D:\C Sharp\Camera\CameraApp\CameraApp\obj\Debug\CameraApp.pdb
+D:\C Sharp\Camera\CameraApp\CameraApp\bin\Debug\AForge.dll
+D:\C Sharp\Camera\CameraApp\CameraApp\bin\Debug\AForge.Video.DirectShow.dll
+D:\C Sharp\Camera\CameraApp\CameraApp\bin\Debug\AForge.Video.dll
+D:\C Sharp\Camera\CameraApp\CameraApp\bin\Debug\AForge.xml
+D:\C Sharp\Camera\CameraApp\CameraApp\bin\Debug\AForge.Video.xml
+D:\C Sharp\Camera\CameraApp\CameraApp\bin\Debug\AForge.Video.DirectShow.xml
+D:\C Sharp\Camera\CameraApp\CameraApp\obj\Debug\CameraApp.csproj.CopyComplete
