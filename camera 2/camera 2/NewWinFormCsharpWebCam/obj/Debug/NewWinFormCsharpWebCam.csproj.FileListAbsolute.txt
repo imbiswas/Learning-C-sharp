@@ -1,0 +1,43 @@
+C:\Users\TURGAY\Documents\Visual Studio 2017\Projects\NewWinFormCsharpWebCam\NewWinFormCsharpWebCam\bin\Debug\NewWinFormCsharpWebCam.exe.config
+C:\Users\TURGAY\Documents\Visual Studio 2017\Projects\NewWinFormCsharpWebCam\NewWinFormCsharpWebCam\bin\Debug\NewWinFormCsharpWebCam.exe
+C:\Users\TURGAY\Documents\Visual Studio 2017\Projects\NewWinFormCsharpWebCam\NewWinFormCsharpWebCam\bin\Debug\NewWinFormCsharpWebCam.pdb
+C:\Users\TURGAY\Documents\Visual Studio 2017\Projects\NewWinFormCsharpWebCam\NewWinFormCsharpWebCam\bin\Debug\WebCam_Capture.dll
+C:\Users\TURGAY\Documents\Visual Studio 2017\Projects\NewWinFormCsharpWebCam\NewWinFormCsharpWebCam\obj\Debug\NewWinFormCsharpWebCam.csprojResolveAssemblyReference.cache
+C:\Users\TURGAY\Documents\Visual Studio 2017\Projects\NewWinFormCsharpWebCam\NewWinFormCsharpWebCam\obj\Debug\NewWinFormCsharpWebCam.Form1.resources
+C:\Users\TURGAY\Documents\Visual Studio 2017\Projects\NewWinFormCsharpWebCam\NewWinFormCsharpWebCam\obj\Debug\NewWinFormCsharpWebCam.Properties.Resources.resources
+C:\Users\TURGAY\Documents\Visual Studio 2017\Projects\NewWinFormCsharpWebCam\NewWinFormCsharpWebCam\obj\Debug\NewWinFormCsharpWebCam.csproj.GenerateResource.cache
+C:\Users\TURGAY\Documents\Visual Studio 2017\Projects\NewWinFormCsharpWebCam\NewWinFormCsharpWebCam\obj\Debug\NewWinFormCsharpWebCam.csproj.CoreCompileInputs.cache
+C:\Users\TURGAY\Documents\Visual Studio 2017\Projects\NewWinFormCsharpWebCam\NewWinFormCsharpWebCam\obj\Debug\NewWinFormCsharpWebCam.csproj.CopyComplete
+C:\Users\TURGAY\Documents\Visual Studio 2017\Projects\NewWinFormCsharpWebCam\NewWinFormCsharpWebCam\obj\Debug\NewWinFormCsharpWebCam.exe
+C:\Users\TURGAY\Documents\Visual Studio 2017\Projects\NewWinFormCsharpWebCam\NewWinFormCsharpWebCam\obj\Debug\NewWinFormCsharpWebCam.pdb
+C:\Users\biswa\Downloads\NewWinFormCsharpWebCam\NewWinFormCsharpWebCam\bin\Debug\NewWinFormCsharpWebCam.exe.config
+C:\Users\biswa\Downloads\NewWinFormCsharpWebCam\NewWinFormCsharpWebCam\bin\Debug\NewWinFormCsharpWebCam.exe
+C:\Users\biswa\Downloads\NewWinFormCsharpWebCam\NewWinFormCsharpWebCam\bin\Debug\NewWinFormCsharpWebCam.pdb
+C:\Users\biswa\Downloads\NewWinFormCsharpWebCam\NewWinFormCsharpWebCam\bin\Debug\AForge.dll
+C:\Users\biswa\Downloads\NewWinFormCsharpWebCam\NewWinFormCsharpWebCam\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\biswa\Downloads\NewWinFormCsharpWebCam\NewWinFormCsharpWebCam\bin\Debug\AForge.Video.dll
+C:\Users\biswa\Downloads\NewWinFormCsharpWebCam\NewWinFormCsharpWebCam\bin\Debug\AForge.xml
+C:\Users\biswa\Downloads\NewWinFormCsharpWebCam\NewWinFormCsharpWebCam\bin\Debug\AForge.Video.xml
+C:\Users\biswa\Downloads\NewWinFormCsharpWebCam\NewWinFormCsharpWebCam\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\biswa\Downloads\NewWinFormCsharpWebCam\NewWinFormCsharpWebCam\obj\Debug\NewWinFormCsharpWebCam.csprojAssemblyReference.cache
+C:\Users\biswa\Downloads\NewWinFormCsharpWebCam\NewWinFormCsharpWebCam\obj\Debug\NewWinFormCsharpWebCam.Form1.resources
+C:\Users\biswa\Downloads\NewWinFormCsharpWebCam\NewWinFormCsharpWebCam\obj\Debug\NewWinFormCsharpWebCam.Properties.Resources.resources
+C:\Users\biswa\Downloads\NewWinFormCsharpWebCam\NewWinFormCsharpWebCam\obj\Debug\NewWinFormCsharpWebCam.csproj.GenerateResource.cache
+C:\Users\biswa\Downloads\NewWinFormCsharpWebCam\NewWinFormCsharpWebCam\obj\Debug\NewWinFormCsharpWebCam.csproj.CoreCompileInputs.cache
+C:\Users\biswa\Downloads\NewWinFormCsharpWebCam\NewWinFormCsharpWebCam\obj\Debug\NewWinFormCsharpWebCam.csproj.CopyComplete
+C:\Users\biswa\Downloads\NewWinFormCsharpWebCam\NewWinFormCsharpWebCam\obj\Debug\NewWinFormCsharpWebCam.exe
+C:\Users\biswa\Downloads\NewWinFormCsharpWebCam\NewWinFormCsharpWebCam\obj\Debug\NewWinFormCsharpWebCam.pdb
+D:\C Sharp\camera 2\camera 2\NewWinFormCsharpWebCam\bin\Debug\NewWinFormCsharpWebCam.exe.config
+D:\C Sharp\camera 2\camera 2\NewWinFormCsharpWebCam\bin\Debug\NewWinFormCsharpWebCam.exe
+D:\C Sharp\camera 2\camera 2\NewWinFormCsharpWebCam\bin\Debug\NewWinFormCsharpWebCam.pdb
+D:\C Sharp\camera 2\camera 2\NewWinFormCsharpWebCam\bin\Debug\AForge.xml
+D:\C Sharp\camera 2\camera 2\NewWinFormCsharpWebCam\bin\Debug\AForge.Video.xml
+D:\C Sharp\camera 2\camera 2\NewWinFormCsharpWebCam\bin\Debug\AForge.Video.DirectShow.xml
+D:\C Sharp\camera 2\camera 2\NewWinFormCsharpWebCam\obj\Debug\NewWinFormCsharpWebCam.csprojAssemblyReference.cache
+D:\C Sharp\camera 2\camera 2\NewWinFormCsharpWebCam\obj\Debug\NewWinFormCsharpWebCam.Form1.resources
+D:\C Sharp\camera 2\camera 2\NewWinFormCsharpWebCam\obj\Debug\NewWinFormCsharpWebCam.Properties.Resources.resources
+D:\C Sharp\camera 2\camera 2\NewWinFormCsharpWebCam\obj\Debug\NewWinFormCsharpWebCam.csproj.GenerateResource.cache
+D:\C Sharp\camera 2\camera 2\NewWinFormCsharpWebCam\obj\Debug\NewWinFormCsharpWebCam.csproj.CoreCompileInputs.cache
+D:\C Sharp\camera 2\camera 2\NewWinFormCsharpWebCam\obj\Debug\NewWinFormCsharpWebCam.csproj.CopyComplete
+D:\C Sharp\camera 2\camera 2\NewWinFormCsharpWebCam\obj\Debug\NewWinFormCsharpWebCam.exe
+D:\C Sharp\camera 2\camera 2\NewWinFormCsharpWebCam\obj\Debug\NewWinFormCsharpWebCam.pdb
